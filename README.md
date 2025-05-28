@@ -41,7 +41,7 @@ A centralized platform where users could:
 ![Dashboard – End User](./screens/Dashboard-End-User.png)
 
 ### Player Editor – Version History  
-![Player Editor – Version History](./screens/Player-Editor-version-history.png)
+![Player Editor – Version History](./screens/Player-Editor-version_history.png)
 
 ---
 
