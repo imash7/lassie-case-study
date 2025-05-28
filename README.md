@@ -40,7 +40,7 @@ A centralized platform where users could:
 ### Dashboard – End User  
 ![Dashboard – End User](Dashboard-End-User.png)
 
-### Player Editor – Version History  
+### Player Editor – Version History 
 ![Player Editor – Version History](Player-Editor-version_history.png)
 
 ---
