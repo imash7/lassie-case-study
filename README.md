@@ -35,7 +35,15 @@ A centralized platform where users could:
 - Collaboration with developers to document spacing, states, and interactivity
 
 ---
+## 🖼️ Screenshots
 
+### Dashboard – End User  
+![Dashboard – End User](./screens/Dashboard-End%20User.png)
+
+### Player Editor – Version History  
+![Player Editor – Version History](./screens/Player-%20Editor%20-%20version%20history.png)
+
+---
 
 ## 🔗 Links
 - Case study https://innamashek.com/p/Lassie
