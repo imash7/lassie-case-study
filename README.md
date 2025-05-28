@@ -38,10 +38,10 @@ A centralized platform where users could:
 ## 🖼️ Screenshots
 
 ### Dashboard – End User  
-![Dashboard – End User](./screens/Dashboard-End%20User.png)
+![Dashboard – End User](./screens/Dashboard-End-User.png)
 
 ### Player Editor – Version History  
-![Player Editor – Version History](./screens/Player-%20Editor%20-%20version%20history.png)
+![Player Editor – Version History](./screens/Player-Editor-version-history.png)
 
 ---
 
